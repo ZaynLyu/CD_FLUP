@@ -1,6 +1,6 @@
 # CD_FLUP
 This repository contains the generated instances for CD_FLUP
-
+Datasets in paper "Cross-docking based factory logistics unitisation process: An approximate dynamic programming approach"
 Read the dataset with numpy
 
 #for E_d_kl demand of unit type k at line l
